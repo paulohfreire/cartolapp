@@ -46,7 +46,7 @@ export default function Match() {
             </td>
             <td className="text-center">17</td>
             <td className="text-center">x</td>
-            <td className="text-center">15</td>
+            <td className="text-center">16</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
                 <span className="text-sm">Tenha Calma Moreno</span>
@@ -73,7 +73,7 @@ export default function Match() {
             </td>
             <td className="text-center p-4">18</td>
             <td className="text-center p-4">x</td>
-            <td className="text-center p-4">14</td>
+            <td className="text-center p-4">15</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
                 <span className="text-sm">Seringas F.C</span>
@@ -100,7 +100,7 @@ export default function Match() {
             </td>
             <td className="text-center p-4">17</td>
             <td className="text-center p-4">x</td>
-            <td className="text-center p-4">15</td>
+            <td className="text-center p-4">16</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
                 <span className="text-sm">Os sujismundos</span>
@@ -127,7 +127,7 @@ export default function Match() {
             </td>
             <td className="text-center p-4">21</td>
             <td className="text-center p-4">x</td>
-            <td className="text-center p-4">11</td>
+            <td className="text-center p-4">12</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
                 <span className="text-sm">Chupaku de Goianinha</span>
@@ -154,7 +154,7 @@ export default function Match() {
             </td>
             <td className="text-center p-4">16</td>
             <td className="text-center p-4">x</td>
-            <td className="text-center p-4">16</td>
+            <td className="text-center p-4">17</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
                 <span className="text-sm">Tenha Calma Moreno</span>
@@ -179,7 +179,7 @@ export default function Match() {
                 <span className="text-xs">BXUCRO </span>
               </div>
             </td>
-            <td className="text-center p-4">15</td>
+            <td className="text-center p-4">16</td>
             <td className="text-center p-4">x</td>
             <td className="text-center p-4">16</td>
             <td className="text-center p-2">
@@ -208,7 +208,7 @@ export default function Match() {
             </td>
             <td className="text-center p-4">18</td>
             <td className="text-center p-4">x</td>
-            <td className="text-center p-4">11</td>
+            <td className="text-center p-4">12</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
                 <span className="text-sm">Chupaku de Goianinha</span>
