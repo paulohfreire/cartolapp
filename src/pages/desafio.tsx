@@ -41,15 +41,15 @@ export default function Match() {
                   width={30}
                   height={30}
                 />
-                <span className="text-xs">UmPouco Droga UmPouco Salada</span>
+                <span className="text-xs">Vadalco Zinho FC</span>
               </div>
             </td>
-            <td className="text-center">20</td>
+            <td className="text-center">1</td>
             <td className="text-center">x</td>
-            <td className="text-center">18</td>
+            <td className="text-center">2</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
-                <span className="text-sm">Tenha Calma Moreno</span>
+                <span className="text-sm">Bayer La Vem Ku</span>
                 <Image
                   src={"./images/daniel.svg"}
                   alt="escudo"
@@ -59,60 +59,7 @@ export default function Match() {
               </div>
             </td>
           </tr>
-          <tr className="bg-gray-700 hover:bg-gray-800">
-            <td className="text-center p-1">
-              <div className="flex items-center space-x-2">
-                <Image
-                  src={"./images/herta.svg"}
-                  alt="escudo"
-                  width={30}
-                  height={30}
-                />
-                <span className="text-xs">HEITA BEBIM SC</span>
-              </div>
-            </td>
-            <td className="text-center p-4">19</td>
-            <td className="text-center p-4">x</td>
-            <td className="text-center p-4">19</td>
-            <td className="text-center p-2">
-              <div className="flex items-center justify-between space-x-2">
-                <span className="text-sm">Seringas F.C</span>
-                <Image
-                  src={"./images/seringas.svg"}
-                  alt="escudo"
-                  width={30}
-                  height={30}
-                />
-              </div>
-            </td>
-          </tr>
-          <tr className="bg-gray-700 hover:bg-gray-800">
-            <td className="text-center p-1">
-              <div className="flex items-center space-x-2">
-                <Image
-                  src={"./images/herta.svg"}
-                  alt="escudo"
-                  width={30}
-                  height={30}
-                />
-                <span className="text-xs">HEITA BEBIM SC</span>
-              </div>
-            </td>
-            <td className="text-center p-4">18</td>
-            <td className="text-center p-4">x</td>
-            <td className="text-center p-4">20</td>
-            <td className="text-center p-2">
-              <div className="flex items-center justify-between space-x-2">
-                <span className="text-sm">Os sujismundos</span>
-                <Image
-                  src={"./images/sujismundo.svg"}
-                  alt="escudo"
-                  width={30}
-                  height={30}
-                />
-              </div>
-            </td>
-          </tr>
+
           <tr className="bg-gray-700 hover:bg-gray-800">
             <td className="text-center p-1">
               <div className="flex items-center space-x-1">
@@ -125,12 +72,12 @@ export default function Match() {
                 <span className="text-sm">RaffeikeFC</span>
               </div>
             </td>
-            <td className="text-center p-4">26</td>
+            <td className="text-center p-4">3</td>
             <td className="text-center p-4">x</td>
-            <td className="text-center p-4">12</td>
+            <td className="text-center p-4">0</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
-                <span className="text-sm">Chupaku de Goianinha</span>
+                <span className="text-sm">Tempus Veritatis</span>
                 <Image
                   src={"./images/xandao.svg"}
                   alt="escudo"
@@ -149,15 +96,15 @@ export default function Match() {
                   width={30}
                   height={30}
                 />
-                <span className="text-xs">Hoje eu vou Garotear FC</span>
+                <span className="text-xs">SAF_adeza FC</span>
               </div>
             </td>
-            <td className="text-center p-4">20</td>
+            <td className="text-center p-4">1</td>
             <td className="text-center p-4">x</td>
-            <td className="text-center p-4">18</td>
+            <td className="text-center p-4">2</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
-                <span className="text-sm">Tenha Calma Moreno</span>
+                <span className="text-sm">Bayer La Vem Ku</span>
                 <Image
                   src={"./images/daniel.svg"}
                   alt="escudo"
@@ -179,12 +126,12 @@ export default function Match() {
                 <span className="text-xs">BXUCRO </span>
               </div>
             </td>
-            <td className="text-center p-4">19</td>
+            <td className="text-center p-4">2</td>
             <td className="text-center p-4">x</td>
-            <td className="text-center p-4">18</td>
+            <td className="text-center p-4">1</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
-                <span className="text-sm">Palestrino ®©</span>
+                <span className="text-sm">AbcPalestraRC</span>
                 <Image
                   src={"./images/palestrino.svg"}
                   alt="escudo"
@@ -206,12 +153,12 @@ export default function Match() {
                 <span className="text-sm">A volta do Mito</span>
               </div>
             </td>
-            <td className="text-center p-4">22</td>
+            <td className="text-center p-4">3</td>
             <td className="text-center p-4">x</td>
-            <td className="text-center p-4">13</td>
+            <td className="text-center p-4">0</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
-                <span className="text-sm">Chupaku de Goianinha</span>
+                <span className="text-sm">Tempus Veritatis</span>
                 <Image
                   src={"./images/xandao.svg"}
                   alt="escudo"
