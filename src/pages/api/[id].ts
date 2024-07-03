@@ -22,6 +22,11 @@ export default async function handler(
       47663847, 47646361, 8631482, 1071737, 1229763, 47703776, 1174817, 1229763,
     ];
 
+    //mito 47996695
+    //daniel 9035902
+    //aca 19653180
+    //raffeike 7969983
+
     const { id } = req.query;
     const selectedId = parseInt(id as string, 10);
 

@@ -44,9 +44,9 @@ export default function Match() {
                 <span className="text-xs">Vadalco Zinho FC</span>
               </div>
             </td>
-            <td className="text-center">1</td>
+            <td className="text-center">6</td>
             <td className="text-center">x</td>
-            <td className="text-center">2</td>
+            <td className="text-center">6</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
                 <span className="text-sm">Bayer La Vem Ku</span>
@@ -72,7 +72,7 @@ export default function Match() {
                 <span className="text-sm">RaffeikeFC</span>
               </div>
             </td>
-            <td className="text-center p-4">3</td>
+            <td className="text-center p-4">12</td>
             <td className="text-center p-4">x</td>
             <td className="text-center p-4">0</td>
             <td className="text-center p-2">
@@ -99,9 +99,9 @@ export default function Match() {
                 <span className="text-xs">SAF_adeza FC</span>
               </div>
             </td>
-            <td className="text-center p-4">1</td>
+            <td className="text-center p-4">5</td>
             <td className="text-center p-4">x</td>
-            <td className="text-center p-4">2</td>
+            <td className="text-center p-4">7</td>
             <td className="text-center p-2">
               <div className="flex items-center justify-between space-x-2">
                 <span className="text-sm">Bayer La Vem Ku</span>
@@ -114,7 +114,7 @@ export default function Match() {
               </div>
             </td>
           </tr>
-          <tr className="bg-gray-700 hover:bg-gray-800">
+          {/* <tr className="bg-gray-700 hover:bg-gray-800">
             <td className="text-center p-1">
               <div className="flex items-center space-x-2">
                 <Image
@@ -167,7 +167,7 @@ export default function Match() {
                 />
               </div>
             </td>
-          </tr>
+          </tr> */}
         </tbody>
       </table>
     </div>
