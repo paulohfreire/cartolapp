@@ -1,3 +1,42 @@
+
+<img width="916" alt="cartolaapp" src="https://github.com/paulohfreire/cartolapp/assets/49009770/80d010bb-57f6-4206-b1f2-a76fc14b1a5b">
+
+
+# Cartola App - A Fantasy League Companion
+
+Welcome to my Cartola project! This project delivers a specialized website, designed as a companion tool for fantasy football enthusiasts using the Cartola FC platform. It offers a centralized, interactive dashboard for league members to manage their teams, track scores, monitor league standings, and participate in custom challenges.
+Built using React.js, it aims to provide an engaging and visually appealing experience.
+
+## Core Features:
+
+### Team and League Management:
+
+ View and Manage Teams: Users can access detailed information about their teams, including player statistics and team performance within their specific leagues.
+ League Insights: The dashboard provides insights into league standings and updates, helping participants strategize and make informed decisions.
+ 
+### Score and Round Analysis:
+
+Live Scoring: Scores for each match round are updated in real-time, allowing users to see their team’s performance as the games progress.
+Round Summary: At the end of each round, participants can review a detailed breakdown of scores and player performances.
+
+### Internal League Challenges:
+
+Custom Challenges: Users can create and track custom challenges within their league, adding a layer of personalized competition.
+Alerts and Notifications: The system sends notifications about upcoming matches and challenge deadlines to keep all league members informed and engaged.
+
+### Prize Tracking:
+
+Prize Details: Information regarding the prizes for the league champion and other rankings are clearly displayed, motivating players to perform their best.
+Reward Updates: Updates on the distribution and status of prizes based on league standings are provided throughout the season.
+
+## Technical Specifications:
+
+ Integration with Cartola API: The website uses the Cartola API to pull real-time data regarding team selections, player scores, and league standings directly into the dashboard.
+ Responsive Web Design: The site is designed to be fully responsive, providing an optimal viewing experience across all devices, including desktops, tablets, and smartphones.
+ Enhanced Security: Advanced security measures are implemented to ensure the integrity and privacy of user data and league information.
+
+## How to run:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
